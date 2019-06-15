@@ -1,0 +1,1 @@
+''' Magic Spells and desc'''
