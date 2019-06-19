@@ -1,0 +1,1 @@
+''' Class instantiations and val initialisations '''
